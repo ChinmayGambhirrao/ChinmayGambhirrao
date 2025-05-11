@@ -1,51 +1,68 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chinmay Gambhirrao
-==========================================================================================================================================
+<h1 align="center">Hi 👋, I'm Chinmay Gambhirrao</h1>
+<h3 align="center">A Full Stack Developer passionate about crafting responsive and scalable web applications</h3>
 
-Full-Stack Developer
---------------------
+---
 
-Passionate and dedicated Full Stack Developer with a strong foundation in web development technologies. I am a recent graduate seeking opportunities to contribute my skills and knowledge to real-world projects. With a comprehensive understanding of both front-end and back-end development, I aim to create seamless, user-friendly, and responsive web applications.
+### 🚀 About Me
 
-* 🌍  I'm based in Mumbai
-* 🖥️  See my portfolio at [MyPortfolio](http://chinmay-gambhirrao.web.app)
-* ✉️  You can contact me at [ccgambhirrao@gmail.com](mailto:ccgambhirrao@gmail.com)
-* 🧠  I'm learning Node JS
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I have Superpowers.... but don't tell anyone
+- 🌍 Based in Mumbai, India  
+- 🧑‍💻 Currently building projects with **React.js**, **Node.js**, and **MongoDB**  
+- 🖥️ Portfolio → [chinmay-gambhirrao.web.app](http://chinmay-gambhirrao.web.app)  
+- ✉️ Reach me at: [ccgambhirrao@gmail.com](mailto:ccgambhirrao@gmail.com)  
+- 💡 Actively learning **TypeScript**, **Next.js**, and **Testing** with **Jest/RTL**  
+- 🤝 Open to collaborating on meaningful full-stack projects  
+- ⚡ Fun fact: I have superpowers... but don't tell anyone 😉
 
-<a href="https://www.github.com/ChinmayGambhirrao" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ChinmayGambhirrao?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+---
 
-### Skills
+### 🛠️ Tech Stack
 
+**Frontend**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Tools & Other**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChinmayGambhirrao&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayGambhirrao&theme=github-dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayGambhirrao&bg_color=0d1117&color=ffffff&line=5BC0BE&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
+---
 
-### Socials
+### 🌐 Let's Connect
 
-<p align="left"> <a href="https://www.facebook.com/chinmay.gambhirrao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/ChinmayGambhirrao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/chinmaysgram/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chinmaygambhirrao/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Gambhirrao13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ChinmayGambhirrao"><img src="https://github-readme-stats.vercel.app/api?username=ChinmayGambhirrao&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ChinmayGambhirrao's GitHub stats" /></a>
-
-<a href="http://www.github.com/ChinmayGambhirrao"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayGambhirrao&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/ChinmayGambhirrao"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ChinmayGambhirrao&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/ChinmayGambhirrao" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayGambhirrao&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/chinmaygambhirrao/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/ChinmayGambhirrao" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+</a>
+<a href="https://twitter.com/Gambhirrao13" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+</a>
+<a href="http://instagram.com/chinmaysgram/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+</a>
+</p>
