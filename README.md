@@ -7,7 +7,7 @@
 
 - 🌍 Based in Mumbai, India  
 - 🧑‍💻 Currently building projects with **React.js**, **Node.js**, and **MongoDB**  
-- 🖥️ Portfolio → [chinmay-gambhirrao.web.app](http://chinmay-gambhirrao.web.app)  
+- 🖥️ Portfolio → [chinmay-portfolio-snowy.vercel.app](https://chinmay-portfolio-snowy.vercel.app/)  
 - ✉️ Reach me at: [ccgambhirrao@gmail.com](mailto:ccgambhirrao@gmail.com)  
 - 💡 Actively learning **TypeScript**, **Next.js**, and **Testing** with **Jest/RTL**  
 - 🤝 Open to collaborating on meaningful full-stack projects  
